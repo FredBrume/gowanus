@@ -2,15 +2,22 @@
   "name": "gowanus",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fredbrume.github.io/gowanus/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-slick": "^0.23.2",
+    "react-slick-carousel": "^0.14.9"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
