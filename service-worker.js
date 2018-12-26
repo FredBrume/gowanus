@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gowanus/precache-manifest.1bd0471b837974b6f0b8034724901f4a.js"
+  "/gowanus/precache-manifest.83b9c8ffb99d610dd9f7fe21911b3758.js"
 );
 
 workbox.clientsClaim();

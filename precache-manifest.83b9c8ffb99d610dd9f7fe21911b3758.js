@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/gowanus/static/media/img1.601da4f7.JPG"
   },
   {
-    "revision": "34920e1136c3c28932f5",
-    "url": "/gowanus/static/css/main.a790580d.chunk.css"
+    "revision": "1a45e796cddcf02a84e6",
+    "url": "/gowanus/static/css/main.f76eb8d6.chunk.css"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/gowanus/static/media/img5.b89a737f.JPG"
   },
   {
-    "revision": "34920e1136c3c28932f5",
-    "url": "/gowanus/static/js/main.34920e11.chunk.js"
+    "revision": "1a45e796cddcf02a84e6",
+    "url": "/gowanus/static/js/main.1a45e796.chunk.js"
   },
   {
     "revision": "b3ee9f4c58f09c1b07d102538423e1d9",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/gowanus/static/css/1.c86eded5.chunk.css"
   },
   {
-    "revision": "59d3f323b44025a8e33115b30e256fa9",
+    "revision": "6ad05905b823f120209b7d69e30b19e5",
     "url": "/gowanus/index.html"
   }
 ];
