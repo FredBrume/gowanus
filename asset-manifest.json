@@ -1,7 +1,7 @@
 {
-  "main.css": "/gowanus/static/css/main.f7bbde9d.chunk.css",
-  "main.js": "/gowanus/static/js/main.75f79101.chunk.js",
-  "main.js.map": "/gowanus/static/js/main.75f79101.chunk.js.map",
+  "main.css": "/gowanus/static/css/main.138a5841.chunk.css",
+  "main.js": "/gowanus/static/js/main.dbea7c5a.chunk.js",
+  "main.js.map": "/gowanus/static/js/main.dbea7c5a.chunk.js.map",
   "static/css/1.ce3b0c2d.chunk.css": "/gowanus/static/css/1.ce3b0c2d.chunk.css",
   "static/js/1.3a133565.chunk.js": "/gowanus/static/js/1.3a133565.chunk.js",
   "static/js/1.3a133565.chunk.js.map": "/gowanus/static/js/1.3a133565.chunk.js.map",
@@ -13,9 +13,9 @@
   "static/media/img3.jpg": "/gowanus/static/media/img3.eac524e2.jpg",
   "static/media/slick-theme.css": "/gowanus/static/media/slick.f97e3bbf.svg",
   "static/media/img5.JPG": "/gowanus/static/media/img5.b89a737f.JPG",
-  "static/css/main.f7bbde9d.chunk.css.map": "/gowanus/static/css/main.f7bbde9d.chunk.css.map",
+  "static/css/main.138a5841.chunk.css.map": "/gowanus/static/css/main.138a5841.chunk.css.map",
   "static/css/1.ce3b0c2d.chunk.css.map": "/gowanus/static/css/1.ce3b0c2d.chunk.css.map",
   "index.html": "/gowanus/index.html",
-  "precache-manifest.4a4914a1007b54fe733f7389e55f30d9.js": "/gowanus/precache-manifest.4a4914a1007b54fe733f7389e55f30d9.js",
+  "precache-manifest.b89129c7be5a8df2b60d6630dd81931e.js": "/gowanus/precache-manifest.b89129c7be5a8df2b60d6630dd81931e.js",
   "service-worker.js": "/gowanus/service-worker.js"
 }
